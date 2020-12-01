@@ -1,0 +1,13 @@
+# faceflower
+
+
+import opencv
+
+while true
+	if face
+		if faceX > 0
+			move servo left 
+		if faceX < 0
+			move servo right
+			
+		
